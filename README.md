@@ -3,7 +3,7 @@
 
 **otisps** thinks you're ✨ _special_ ✨  because you took the time to  `README.md`. 
 
-Questions and Answers about me:
+Need to knows and facts about me:
 
 - 🔭 I’m currently working on: Full Stack Spring applications.
 - 🌱 I’m currently learning: The Spring Roadmap -> Javascript -> CSS Design.
