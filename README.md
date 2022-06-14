@@ -6,7 +6,7 @@
 Need to knows and facts about me:
 
 - 🔭 I’m currently working on: Full Stack Spring applications.
-- 🌱 I’m currently learning: The Spring Roadmap -> Javascript -> CSS Design.
+- 🌱 I’m currently learning: Revision for alevel exams 
 - 👯 I’m looking to collaborate on: Full stack web applications
 - 🤔 I’m looking for help with: Front end Design
 - 💬 Ask me about: My passion for east asian cuisine! 🍙🍱
