@@ -5,9 +5,9 @@
 
 Need to knows and facts about me:
 
-- 🔭 I’m currently working on: Full Stack Spring applications.
-- 🌱 I’m currently learning: Revision for alevel exams 
-- 👯 I’m looking to collaborate on: Full stack web applications
+- 🔭 I’m currently working on: SPIGOT PLUGINS!
+- 🌱 I’m currently learning: Spring applicaitons!
+- 👯 I’m looking to collaborate on: SPIGOT PLUGINS!
 - 🤔 I’m looking for help with: Front end Design
 - 💬 Ask me about: My passion for east asian cuisine! 🍙🍱
 - 📫 How to reach me: Message me on discord otis#7157
