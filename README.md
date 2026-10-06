@@ -13,6 +13,3 @@ Self-taught developer working mainly in **Java** and **Python**. I learn by buil
 
 Java · Python · SQL · Spring Boot · OpenCV · Git
 
-## Contact
-
-otissollinger@icloud.com
